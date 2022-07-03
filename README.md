@@ -24,10 +24,10 @@ git clone https://github.com/mFragaBA/language_flashcards ~/.vocage/language_fla
 # This is optional, but i usually create a second file on 
 # which i run vocage on and whenever I update the definition 
 # file, I just copy the new lines into my current file
-cd ~/.vocage/language_flashcards
+cd ~/.vocage/language_flashcards/kr
 cp define_topki1.tsv topik1.tsv
 
 # Usage example
-cd ~/.vocage/language_flashcards
+cd ~/.vocage/language_flashcards/kr
 vocage topik1.tsv
 ```
