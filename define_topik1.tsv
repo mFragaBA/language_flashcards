@@ -1,0 +1,125 @@
+KR	ENG	CATEGORY
+옆	next to	Locations and Directions
+뒤	behind	Locations and Directions
+아래	below 	Locations and Directions
+앞	in front of	Locations and Directions
+안	inside of 	Locations and Directions
+밖	outside of 	Locations and Directions
+오른쪽	right 	Locations and Directions
+왼쪽 	left 	Locations and Directions
+건너편	across the street 	Locations and Directions
+사이	between	Locations and Directions
+가운데	in the middle of 	Locations and Directions
+도로	road	Street
+골목	alley	Street
+우체	postal office	Street
+횐단보도	crosswalk	Street
+길거리	street	Street
+육교	bridge	Street
+신호등	semaphore	Street
+이정표	sign	Street
+발리다	early	Stative Verb 2
+늦다	late	Stative Verb 2
+같다	same	Stative Verb 2
+다르다	different	Stative Verb 2
+편하다	comfortable	Stative Verb 2
+불편하다	uncomfortable	Stative Verb 2
+가능하다	possible	Stative Verb 2
+불가능하다	impossible	Stative Verb 2
+간단하다	simple	Stative Verb 2
+복잡하다	complicated	Stative Verb 2
+가깝다	close	Stative Verb 2
+멀다	far	Stative Verb 2
+자리가 있다	seats are available	Restaurants
+자리가 없다	seats are not available	Restaurants
+메뉴판	menu (object)	Restaurants
+메뉴	menu	Restaurants
+밥	rice (cooked)	Restaurants
+반찬	side dishes	Restaurants
+숟가락	spoon	Restaurants
+젓가락	chopsticks	Restaurants
+앉다	to sit	Restaurants
+고르다	to pick	Restaurants
+시키다(주문하다)	to order	Restaurants
+배달하다	to deliver	Restaurants
+N + 공기	rice (bowl)	Counters used for food
+N + 그릇 	soup (big plate)	Counters used for food
+N + 접시	side dishes (small/medium dishes)	Counters used for food
+N + 인분	bulgogi (or other main dish)	Counters used for food
+맛있다	delicious	Tastes of food
+맛없다	not tasty	Tastes of food
+맵다	spicy	Tastes of food
+달다	sweet	Tastes of food
+짜다	salty	Tastes of food
+신겁다	bland	Tastes of food
+쓰다	bitter	Tastes of food
+시다	sour	Tastes of food
+비가	오다	to rain	The weather and seasons
+눈이 오다	to snow	The weather and seasons
+바람이 불다	to be windy	The weather and seasons
+그치다	to stop (an action)	The weather and seasons
+날씨가 좋다	the weather is good	The weather and seasons
+날씨가 나쁘다	the weather is bad	The weather and seasons
+맑다	clear	The weather and seasons
+흐리다	cloudy	The weather and seasons
+따뜻하다	warm	The weather and seasons
+덥다	hot	The weather and seasons
+시원하다	cool	The weather and seasons
+춥다	cold	The weather and seasons
+봄	spring	The weather and seasons
+여름	summer	The weather and seasons
+가을	fall/autumn	The weather and seasons
+겨을	winter	The weather and seasons
+정말	really/truly	Adverbs
+진짜	really	Adverbs
+아주	very	Adverbs
+너무	too much	Adverbs
+가장(제일)	the most, the best	Adverbs
+특히	especially	Adverbs
+많이	many/much/a lot	Adverbs
+조금	few/little	Adverbs
+기분이 좋다	to feel good
+기분이 나쁘다	to feel bad
+기쁘다	pleased	Feelings and moods
+슬프다	sad	Feelings and moods
+즐겁다	pleasant	Feelings and moods
+신나다	excited	Feelings and moods
+상쾌하다	to feel refreshed	Feelings and moods
+행복하다	happy	Feelings and moods
+피곤하다	tired	Feelings and moods
+졸리다	sleepy	Feelings and moods
+외롭다	lonely	Feelings and moods
+우울하다	depressed	Feelings and moods
+항상/언제나	always	Adverbs of frequency
+주로/보통	usually	Adverbs of frequency
+자주	often	Adverbs of frequency
+가끔	occasionally	Adverbs of frequency
+독서하다	to read	Hobbies
+낚시하다	to go fishing	Hobbies
+여행하다	to travel	Hobbies
+등산하다	to hike	Hobbies
+사진을 찍다	to take pictures	Hobbies
+외극어를 배우다	to learn foreign languages	Hobbies
+콘서트를 보다	to go for a concert	Hobbies
+운동 경기를 보다	to watch sports games	Hobbies
+음악을 듣다	to listen to music	Hobbies
+기타를 치다	to play the guitar	Hobbies
+피아노를 치다	to play the piano	Hobbies
+춤을 추다	to dance	Hobbies
+<취미> + 동호회	hobby club	Hobbies
+축구하다	to play soccer	Sports
+농구하다	to play basketball	Sports
+야구하다	to play baseball	Sports
+수영하다	to swim	Sports
+테니스를 치다	to play tennis	Sports
+배드민턴을 치다	to play badminton	Sports
+볼링을 치다	to bowl	Sports
+골프를 치다	to play golf	Sports
+스케이트를 타다	to skate	Sports
+스키를 타다	to ski	Sports
+자전거를 타다	to bike	Sports
+#METADATA:
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--showcolumns KR,CATEGORY
+#--showcolumns ENG,CATEGORY
